@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;9a24f9ef-decc-4b02-ad0a-651fab270d5d&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/A8/A8_1.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
